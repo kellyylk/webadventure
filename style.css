@@ -1,0 +1,22 @@
+.grid1{
+	display:grid;
+	/*width: 100px;
+	height: 200px;*/
+	width:25%;
+	/*width: 25vw;*/
+	position: relative;
+	left: 40vw;
+}
+
+
+
+.boxes img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+
+}
+
+.custom {
+  cursor: url(heartt.png), auto;
+}
